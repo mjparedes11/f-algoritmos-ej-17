@@ -1,1 +1,2 @@
 Ciclos Repetitivos
+Es un bucle de acción o acciones dentro del cual existen contadores, acumuladores, variables, etc. Limitado por condiciones programadas según las necesidades del programa o acción continua
